@@ -1,15 +1,11 @@
-9
+10
 ||| 
-11/16/17 •Yulelogs added under power menu
-•4k movies added to movies section 
-•Western movies added to movie section
-•24/7 commerical free tv show channels  added under TV shows section
+11/16/17 •Yulelogs added under power menu •4k movies added to movies section 
+•Western movies added to movie section •24/7 commerical free tv show channels  added under TV shows section
 *** if they dont work click them again***
-•More classic programing added under tv shows section
-•Western tv shows added to tv show section
+•More classic programing added under tv shows section •Western tv shows added to tv show section
 •IVUE TV guide added to live tv section. A game changer for live tv.
 ***requires a username and password please call or email dapackman611@gmail.com and I'll show you how to get you password. This is a work in progress by next update I'll be working on getting rid of non working channels and adding new ones.***
-•Ufc finest added to the sports section for all your ufc needs. 
-•Brettus anime added to animated section 
+•Ufc finest added to the sports section for all your ufc needs.•Brettus anime added to animated section 
 •Soundcloud and mix cloud added to music section
 This is how i will let you know theres updates to your build and for the latest news and information about the jelly vision project. As always if you have any issues or to request a feature please contact me via cell or email dapackman611@gmail.com. Thank you and enjoy.
